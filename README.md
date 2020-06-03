@@ -14,7 +14,15 @@ Ecoleta
   </a>
 </p>
 
-## 🧰 Features
+## 📜 Features
+
+<ul>
+  <li>Add points of collect</li>
+  <li>View the points of collect filtered by types of residue</li>
+  <li>View details of a point of collect</li>
+</ul>
+
+## 🧰 Techs
 
 [//]: # 'Add the features of your project here:'
 
