@@ -26,8 +26,7 @@ This app features all the latest tools and practices in mobile development!
 - 📄 **Knex** — A SQL query builder for a lot of SQL databases
 ## Getting started
 
-Describe here the way to use/install your project
-
+1. Clone this repo using
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
