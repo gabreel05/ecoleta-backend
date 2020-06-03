@@ -2,7 +2,6 @@
 <br>
   <img src=".github/logo.svg" alt="ecoleta" width="200">
 <br>
-<br>
 
 </h1>
 
