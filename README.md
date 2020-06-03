@@ -1,10 +1,10 @@
 <h1 align="center">
 <br>
-  <img src=".github/logo.svg" alt="ecoleta" width="120">
+  <img src=".github/logo.svg" alt="ecoleta" width="200">
 <br>
 <br>
 
-<p align="center">A little description about your project</p>
+<p align="center">a project for networking organic and inorganic waste collection points</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
