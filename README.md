@@ -14,7 +14,7 @@ Ecoleta
   </a>
 </p>
 
-## 💻Features
+## 🧰 Features
 
 [//]: # 'Add the features of your project here:'
 
@@ -24,7 +24,7 @@ This app features all the latest tools and practices in mobile development!
 - 💼 **Express** — A fast, flexible and minimalist web framework for Node.js
 - 🔷 **Typescript** — A typed superset of JavaScript that compiles to plain JavaScript
 - 📄 **Knex** — A SQL query builder for a lot of SQL databases
-## Getting started
+## 💻 Getting started
 
 1. Clone this repo using <code>https://github.com/gabreel05/ecoleta-backend.git</code>
 2. Move to the appropiate directory: <code>cd backend</code>
