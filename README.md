@@ -14,7 +14,7 @@ Ecoleta
   </a>
 </p>
 
-# 📜 Features
+## 📜 Features
 
 <ul>
   <li>Add points of collect</li>
@@ -22,7 +22,7 @@ Ecoleta
   <li>View details of a point of collect</li>
 </ul>
 
-# 🧰 Techs
+## 🧰 Techs
 
 [//]: # 'Add the features of your project here:'
 
@@ -41,7 +41,7 @@ Ecoleta
 5. Run <code>knex:seed</code> to create the seeds
 6. Run <code>yarn dev</code> to start the server
 
-# 🤓 How to contribute
+## 🤓 How to contribute
 <ul>
   <liFork this repository;</li>
   <li>Create a branch with your feature: <code>git checkout -b minha-feature</code>;</li>
