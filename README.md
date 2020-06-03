@@ -26,7 +26,7 @@ Ecoleta
 
 [//]: # 'Add the features of your project here:'
 
-This app features all the latest tools and practices in mobile development!
+##### This app features all the latest tools and practices in mobile development!
 
 - 💹 **Node.js** — A JavaScript runtime built on Chrome's V8
 - 💼 **Express** — A fast, flexible and minimalist web framework for Node.js
