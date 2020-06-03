@@ -26,7 +26,12 @@ This app features all the latest tools and practices in mobile development!
 - 📄 **Knex** — A SQL query builder for a lot of SQL databases
 ## Getting started
 
-1. Clone this repo using
+1. Clone this repo using <code>https://github.com/gabreel05/ecoleta-backend.git</code>
+2. Move to the appropiate directory: <code>cd backend</code>
+3. Run <code>yarn</code> or <code>npm install</code> to install the dependencies
+4. Run <code>knex:migrate</code> to create the tables of the database
+5. Run <code>knex:seed</code> to create the seeds
+6. Run <code>yarn dev</code> to start the server
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
