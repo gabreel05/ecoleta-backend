@@ -40,6 +40,17 @@ Ecoleta
 4. Run <code>knex:migrate</code> to create the tables of the database
 5. Run <code>knex:seed</code> to create the seeds
 6. Run <code>yarn dev</code> to start the server
+
+# 🤓 How to contribute
+<ul>
+  <liFork this repository;</li>
+  <li>Create a branch with your feature: <code>git checkout -b minha-feature</code>;</li>
+  <li>Commit your changes: <code>git commit -m 'feat: Minha nova feature'</code>;</li>
+  <li>Push to your branch: <code>git push origin minha-feature</code>.</li>
+</ul>
+
+<p>After the merge of your pull request is done, you can delete your branch.</p>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
