@@ -6,7 +6,7 @@
 Ecoleta
 </h1>
 
-<p align="center">a project for networking organic and inorganic waste collection points</p>
+<p align="center">a project for networking organic and inorganic waste collection points ♻</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
