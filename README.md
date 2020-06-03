@@ -14,7 +14,7 @@ Ecoleta
   </a>
 </p>
 
-##💻Features
+## 💻Features
 
 [//]: # 'Add the features of your project here:'
 
