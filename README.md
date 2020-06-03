@@ -20,6 +20,7 @@ Ecoleta
   <li>Add points of collect</li>
   <li>View the points of collect filtered by types of residue</li>
   <li>View details of a point of collect</li>
+    <li>View all the residues items</li>
 </ul>
 
 <span><b>Note: To test the API, the better way is using a software like <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a></b></span>
