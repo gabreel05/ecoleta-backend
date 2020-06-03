@@ -22,8 +22,8 @@ This app features all the latest tools and practices in mobile development!
 
 - 💹 **Node.js** — A JavaScript runtime built on Chrome's V8
 - 💼 **Express** — A fast, flexible and minimalist web framework for Node.js
-- 🔷 **Typescript** — TypeScript is a typed superset of JavaScript that compiles to plain JavaScript
-- 📄 **Knex** — is a "batteries included" SQL query builder for a lot of SQL databases
+- 🔷 **Typescript** — A typed superset of JavaScript that compiles to plain JavaScript
+- 📄 **Knex** — A SQL query builder for a lot of SQL databases
 ## Getting started
 
 Describe here the way to use/install your project
