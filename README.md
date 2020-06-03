@@ -22,7 +22,7 @@ Ecoleta
   <li>View details of a point of collect</li>
 </ul>
 
-<span>Note: To test the API, the better way is using a software like <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a></span>
+<span><bold>Note: To test the API, the better way is using a software like <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a></bold></span>
 
 ## 🧰 Techs
 
