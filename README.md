@@ -6,7 +6,7 @@
 Ecoleta
 </h1>
 
-<p align="center">a project for networking organic and inorganic waste collection points ♻</p>
+<p align="center">A project for networking organic and inorganic waste collection points ♻</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -23,6 +23,7 @@ This app features all the latest tools and practices in mobile development!
 - 💹 **Node.js** — A JavaScript runtime built on Chrome's V8
 - 💼 **Express** — A fast, flexible and minimalist web framework for Node.js
 - 🔷 **Typescript** — TypeScript is a typed superset of JavaScript that compiles to plain JavaScript
+- 📄 **Knex** — is a "batteries included" SQL query builder for a lot of SQL databases
 ## Getting started
 
 Describe here the way to use/install your project
