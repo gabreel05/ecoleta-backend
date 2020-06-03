@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="logo.svg" alt="ecoleta" width="120">
+  <img src=".github/logo.svg" alt="ecoleta" width="120">
 <br>
 <br>
 
