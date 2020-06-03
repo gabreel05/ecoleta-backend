@@ -3,6 +3,8 @@
   <img src=".github/logo.svg" alt="ecoleta" width="200">
 <br>
 <br>
+Ecoleta
+</h1>
 
 <p align="center">a project for networking organic and inorganic waste collection points</p>
 
