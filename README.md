@@ -1,18 +1,9 @@
 <h1 align="center">
-<<<<<<< HEAD
   <br>
     <img src=".github/logo.svg" alt="ecoleta" width="200">
   <br>
 </h1>
 
-=======
-<br>
-  <img src=".github/logo.svg" alt="ecoleta" width="200">
-<br>
-
-</h1>
-
->>>>>>> 5de6c15c61233cba25283a69f2cfcbc8a579cb24
 <p align="center">A project for networking organic and inorganic waste collection points ♻</p>
 
 <p align="center">
@@ -27,7 +18,6 @@
   <li>Add points of collect</li>
   <li>View the points of collect filtered by types of residue</li>
   <li>View details of a point of collect</li>
-<<<<<<< HEAD
   <li>View all the residues items</li>
 </ul>
 
@@ -36,12 +26,6 @@
     <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a>
   </b>
 </span>
-=======
-    <li>View all the residues items</li>
-</ul>
-
-<span><b>Note: To test the API, the better way is using a software like <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a></b></span>
->>>>>>> 5de6c15c61233cba25283a69f2cfcbc8a579cb24
 
 ## 🧰 Techs
 
@@ -53,7 +37,6 @@
 - 💼 **Express** — A fast, flexible and minimalist web framework for Node.js
 - 🔷 **Typescript** — A typed superset of JavaScript that compiles to plain JavaScript
 - 📄 **Knex** — A SQL query builder for a lot of SQL databases
-<<<<<<< HEAD
 
 ## 💻 Getting started
 
@@ -73,25 +56,6 @@
   <li>Push to your branch: <code>git push origin my-feature</code>.</li>
 </ul>
 
-=======
-## 💻 Getting started
-
-1. Clone this repo using <code>https://github.com/gabreel05/ecoleta-backend.git</code>
-2. Move to the appropiate directory: <code>cd backend</code>
-3. Run <code>yarn</code> or <code>npm install</code> to install the dependencies
-4. Run <code>knex:migrate</code> to create the tables of the database
-5. Run <code>knex:seed</code> to create the seeds
-6. Run <code>yarn dev</code> to start the server
-
-## 🤓 How to contribute
-<ul>
-  <liFork this repository;</li>
-  <li>Create a branch with your feature: <code>git checkout -b minha-feature</code>;</li>
-  <li>Commit your changes: <code>git commit -m 'feat: Minha nova feature'</code>;</li>
-  <li>Push to your branch: <code>git push origin minha-feature</code>.</li>
-</ul>
-
->>>>>>> 5de6c15c61233cba25283a69f2cfcbc8a579cb24
 <p>After the merge of your pull request is done, you can delete your branch.</p>
 
 ## License
