@@ -23,7 +23,7 @@
 </ul>
 
 <span>
-  <b>Note: To test the API, the better way is using a software like 
+  <b>Note: To test the API, it's recommendded to use a software like 
     <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a>
   </b>
 </span>
