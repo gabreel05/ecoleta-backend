@@ -27,7 +27,9 @@
     <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a>
   </b>
 
+<h1 align="center">
 <a href="https://insomnia.rest/run/?label=Ecoleta&uri=" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</h1>
 </span>
 
 ## 🧰 Techs
