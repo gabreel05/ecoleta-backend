@@ -26,11 +26,12 @@
   <b>Note: To test the API, the better way is using a software like 
     <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a>
   </b>
+</span>
+
   <br>
 <p align="center">
 <a href="https://insomnia.rest/run/?label=Ecoleta&uri=" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
-</span>
 
 ## 🧰 Techs
 
