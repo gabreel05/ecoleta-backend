@@ -22,17 +22,6 @@
   <li>View all the residues items</li>
 </ul>
 
-<span>
-  <b>Note: To test the API, it's recommendded to use a software like 
-    <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a>
-  </b>
-</span>
-
-  <br>
-<p>
-<a href="https://insomnia.rest/run/?label=Ecoleta&uri=" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ## 🧰 Techs
 
 [//]: # 'Add the features of your project here:'
@@ -43,6 +32,21 @@
 - 📄 **Knex** — A SQL query builder for a lot of SQL databases
 
 ## 💻 Getting started
+
+<span>
+  <center>
+  <b>Note: To test the API, it's recommendded to use a software like 
+    <a href="https://insomnia.rest/download/">Insomnia</a> or <a href="https://www.postman.com/">Postman</a>
+  </b>
+  </center>
+</span>
+
+  <br>
+<p>
+<center>
+<a href="https://insomnia.rest/run/?label=Ecoleta&uri=" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</center>
+</p>
 
 1. Clone this repo using <code>https://github.com/gabreel05/ecoleta-backend.git</code>
 2. Move to the appropiate directory: <code>cd backend</code>
