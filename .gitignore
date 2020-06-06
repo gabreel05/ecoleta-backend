@@ -3,3 +3,7 @@ node_modules
 ./Procfile
 
 *.sqlite
+
+yarn.lock
+
+uploads/tmp
