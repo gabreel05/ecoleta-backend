@@ -1,7 +1,7 @@
 import express from 'express';
 import path from 'path';
 import cors from 'cors';
-import { errors } from "celebrate";
+import { errors } from 'celebrate';
 
 import routes from './routes';
 
