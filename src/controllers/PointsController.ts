@@ -8,7 +8,7 @@ class PointsController {
 
     const parsedItems = String(items)
       .split(',')
-      .map((item) => Number(item.trim()));
+      .map(item => Number(item.trim()));
 
     const points = await knex('points')
       .join('point_items', 'points.id', '=', 'point_items.point_id')
@@ -18,7 +18,7 @@ class PointsController {
       .distinct()
       .select('points.*');
 
-    const serializedPoints = points.map((point) => {
+    const serializedPoints = points.map(point => {
       return {
         ...point,
         image_url: `http://192.168.100.66:3333/uploads/tmp/${point.image}`,
