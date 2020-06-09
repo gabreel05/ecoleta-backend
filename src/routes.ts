@@ -3,7 +3,7 @@ import multer from 'multer';
 
 import multerConfig from './config/multer';
 
-import validate from './config/validate';
+import validate from './validators/validate';
 
 import PointsController from './controllers/PointsController';
 import ItemsController from './controllers/ItemsController';
